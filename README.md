@@ -1,6 +1,6 @@
 # trans-ping-pongy
 
-This repo is only representing a mini sub project of a much bigger one [ft_transcendence](https://github.com/aragragu/PONG_MASSAR_5.0). So this is just my standalone minimalist ping pong game part with local multiplayer, AI bot, and online remote modes.
+This repo is only representing a mini sub project of a much bigger team project, the [ft_transcendence](https://github.com/aragragu/PONG_MASSAR_5.0). So this is just my standalone minimalist ping pong game part with local multiplayer, AI bot, and online remote modes.
 
 ## Features
 
