@@ -82,3 +82,6 @@ The remote mode uses a simple queue-based matchmaking system:
 3. Server runs game physics at 60Hz and broadcasts state to both players
 4. Players send input commands (paddle up/down) to the server
 5. Game ends when someone reaches 6 points or disconnects
+
+## License
+MIT License.
