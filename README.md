@@ -15,8 +15,7 @@ This repo is only representing a mini sub project of a much bigger team project,
 ## Quick Start
 
 ```bash
-make install
-make dev
+make all
 ```
 
 Then open [http://localhost:3001](http://localhost:3001) in your browser.
@@ -33,6 +32,7 @@ In Bot mode and Remote mode, you can use either W/S or arrow keys.
 ## Commands
 
 ```bash
+make all          # Install dependencies and run frontend + backend
 make install      # Install dependencies
 make dev          # Run frontend + backend
 make dev-frontend # Run frontend only

@@ -1,3 +1,5 @@
+all: install dev
+
 install:
 	cd frontend && npm i
 	cd backend && npm i
@@ -17,3 +19,5 @@ build:
 
 clean:
 	rm -rf frontend/node_modules frontend/.next backend/node_modules backend/dist
+
+.PHONY: all install dev dev-frontend dev-backend build clean
