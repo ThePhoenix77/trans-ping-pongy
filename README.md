@@ -12,6 +12,11 @@ This repo is only representing a mini sub project of a much bigger team project,
 
 - First to 6 points wins!
 
+## Demo
+
+https://github.com/user-attachments/assets/19f264d6-7fd5-4d66-b238-c0819faaf210
+
+
 ## Quick Start
 
 ```bash
